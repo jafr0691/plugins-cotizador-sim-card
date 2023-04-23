@@ -1,0 +1,187 @@
+.elementor-61 .elementor-element.elementor-element-55805b3 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-61 .elementor-element.elementor-element-55805b3>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-61 .elementor-element.elementor-element-8c2693f:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap, .elementor-61 .elementor-element.elementor-element-8c2693f>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFE3;
+}
+.elementor-61 .elementor-element.elementor-element-8c2693f>.elementor-element-populated, .elementor-61 .elementor-element.elementor-element-8c2693f>.elementor-element-populated>.elementor-background-overlay, .elementor-61 .elementor-element.elementor-element-8c2693f>.elementor-background-slideshow {
+    border-radius: 5px 5px 5px 5px;
+}
+.elementor-61 .elementor-element.elementor-element-8c2693f>.elementor-element-populated {
+    box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 25px 0px 5px 0px;
+    padding: 35px 35px 35px 35px;
+}
+.elementor-61 .elementor-element.elementor-element-8c2693f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-61 .elementor-element.elementor-element-4c8a426 {
+    text-align: center;
+}
+.elementor-61 .elementor-element.elementor-element-4c8a426 .elementor-heading-title {
+    color: #343434;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group {
+    padding-right: calc( 9px/2);
+    padding-left: calc( 9px/2);
+    margin-bottom: 10px;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-form-fields-wrapper {
+    margin-left: calc( -9px/2);
+    margin-right: calc( -9px/2);
+    margin-bottom: -10px;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group.recaptcha_v3-bottomleft, .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0;
+}
+body.rtl .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-labels-inline .elementor-field-group>label {
+    padding-left: 5px;
+}
+body:not(.rtl) .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-labels-inline .elementor-field-group>label {
+    padding-right: 5px;
+}
+body .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-labels-above .elementor-field-group>label {
+    padding-bottom: 5px;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group>label, .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-subgroup label {
+    color: #00000082;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group>label {
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-type-html {
+    padding-bottom: 0px;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #FFFFFFBD;
+    border-color: #05050536;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 25px 25px 25px 25px;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #FFFFFFBD;
+    border-color: #05050536;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 25px 25px 25px 25px;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group .elementor-select-wrapper::before {
+    color: #05050536;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px 15px 10px 15px;
+    cursor: pointer;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .e-form__buttons__wrapper__button-next {
+    background-color: #121359;
+    color: #ffffff;
+    cursor: pointer;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-button[type="submit"] {
+    background-color: #121359;
+    color: #ffffff;
+    cursor: pointer;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-button[type="submit"] svg * {
+    fill: #ffffff;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .e-form__buttons__wrapper__button-previous {
+    color: #ffffff;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .e-form__buttons__wrapper__button-next:hover {
+    color: #ffffff;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-button[type="submit"]:hover {
+    color: #ffffff;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-button[type="submit"]:hover svg * {
+    fill: #ffffff;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .e-form__buttons__wrapper__button-previous:hover {
+    color: #ffffff;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 .e-form__indicators__indicator, .elementor-61 .elementor-element.elementor-element-7b922f9 .e-form__indicators__indicator__label {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9 {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px;
+}
+.elementor-61 .elementor-element.elementor-element-7b922f9>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+.elementor-61 .elementor-element.elementor-element-51cdfa2 .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #f39300;
+    border-radius: 50px 50px 50px 50px;
+    padding: 13px 15px 13px 15px;
+    cursor: pointer;
+}
+.elementor-61 .elementor-element.elementor-element-51cdfa2>.elementor-widget-container {
+    margin: -59px 0px 0px 0px;
+}
+@media(max-width:767px) {
+    .elementor-61 .elementor-element.elementor-element-4c8a426 {
+        text-align: center;
+    }
+    .elementor-61 .elementor-element.elementor-element-4c8a426 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-group>label {
+        font-size: 14px;
+    }
+    .elementor-61 .elementor-element.elementor-element-7b922f9 .elementor-field-type-html {
+        font-size: 14px;
+    }
+    .elementor-61 .elementor-element.elementor-element-51cdfa2>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+}
+@media(min-width:768px) {
+    .elementor-61 .elementor-element.elementor-element-8c2693f {
+        width: 40.526%;
+    }
+    .elementor-61 .elementor-element.elementor-element-e1c84d2 {
+        width: 59.474%;
+    }
+}
+/* Start custom CSS for form, class: .elementor-element-7b922f9 */
+
+.btn-mplan {
+    background-color: #F39300;
+    border-radius: 50px;
+    padding: 10px 25px;
+    color: #FFF !important;
+}
+.rplan {
+    background-color: #FFF;
+    padding: 20px 15px 30px 20px;
+    border-radius: 10px;
+}
+/* End custom CSS */
+
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
