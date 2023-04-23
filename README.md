@@ -58,6 +58,7 @@ Proyecto donde se puede crear los planes integrados con woocommerce y realizar l
 
 
 >Aqui se muestra el segundo plan mas caro seleccioando es cambiado la informacion de los precios y el nombre del plan.
+
 ![cotizadorCotizarPlanMejoradoSelecion](https://user-images.githubusercontent.com/36554510/233823423-e436e23d-d368-4962-901a-610fd9243308.jpg)
 
 
